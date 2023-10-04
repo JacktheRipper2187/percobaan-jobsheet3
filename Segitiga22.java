@@ -10,9 +10,11 @@ public class Segitiga22 {
 
         System.out.print("masukkan alas = ");
         alas = sc.nextInt();
+
         System.out.print("Masukkan tinggi = ");
         tinggi = sc.nextInt();
         luas = alas * tinggi / 2;
+        
         System.out.print("luas Segitiga = " + luas);
 
 
