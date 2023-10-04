@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Segitiga22 {
     public static void main(String[] args) {
-        
+
         Scanner sc = new Scanner(System.in);
 
         int alas, tinggi;
