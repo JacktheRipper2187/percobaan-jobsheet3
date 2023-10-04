@@ -1,11 +1,11 @@
 public class ContohVariabel22 {
     public static void main(String[] args) {
 
-String salahSatuHobbySayaAdalah = "Bermain Basket";
+String salahSatuHobbySayaAdalah = "Bermain bola basket";
 boolean isPandai = true;
 char jenisKelamin = 'L';
 byte _umurSayaSekarang = 18;
-double $ipk = 3.99, tinggi = 1.68;
+double $ipk = 3.4d, tinggi = 1.68;
 System.out.println(salahSatuHobbySayaAdalah);
 System.out.println("Apakah pandai?" + isPandai);
 System.out.println("Jenis kelamin:" + jenisKelamin);
