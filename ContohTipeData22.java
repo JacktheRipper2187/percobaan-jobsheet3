@@ -1,7 +1,7 @@
 public class ContohTipeData22 {
     public static void main(String[] args) {
 
-char golonganDarah = 'B';
+char golonganDarah = 'A';
 byte jarak = (byte) 130;
 short jumlahPendudukDalamSatuDusun = 1025;
 float suhu = 60.50F;
